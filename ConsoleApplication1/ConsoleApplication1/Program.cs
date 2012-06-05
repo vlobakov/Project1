@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         {
             int X
             {
-                //get;
+                //get; my comment
                 set;
             }
         }
